@@ -191,7 +191,7 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
             }
         } else {
             switch (id) {
-                case 2:
+                case 2: 
                     icon = getString(R.string.weather_thunder);
                     break;
                 case 3:
